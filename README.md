@@ -25,8 +25,6 @@ to change fast and easy thier own Gamemode</p>
 
 ## Downloads
 
-**More games in Development!**
-
 You can download from [GitHub Releases](https://github.com/Qubik-Studios/GM-Switch/releases)
 
 ### Note on Third-Party Usage

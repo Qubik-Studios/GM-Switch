@@ -1,0 +1,14 @@
+name: GM-Switch
+version: ${project.version}
+main: net.qubikstudios.main.Gamemode
+author: ConmineLP
+description: A simple and lightweight Gamemode Switch Plugin
+website: https://qubik-studios.net
+api-version: 1.17
+prefix: \u001B[32mGM-Switch
+
+
+commands:
+  gm:
+    description: A easy to use Gamemode Switch
+    permission: gamemode.switch

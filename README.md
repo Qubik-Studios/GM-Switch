@@ -25,7 +25,7 @@ to change fast and easy thier own Gamemode</p>
 
 ## Downloads
 
-You can download from [GitHub Releases](https://github.com/Qubik-Studios/GM-Switch/releases)
+You can download from [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/gm-switch)
 
 ### Note on Third-Party Usage
 
